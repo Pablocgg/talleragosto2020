@@ -8,3 +8,4 @@ van a balancear deben tomarse desde un archivo de variables.
 4) Tener firewall activo con los puertos correspondientes a los servicios http y https permitidos.
 5) El estado de los servicios necesarios debe ser que están iniciados y habilitados.
 Obligatorio.
+# talleragosto2020
